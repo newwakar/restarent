@@ -1,2 +1,2 @@
 openapi_key = ""
-serpapi_"ey = ""
+serpapi_key = ""
