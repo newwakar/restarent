@@ -11,5 +11,5 @@ if cuisine:
     menu_items = response['menu_items']
     st.write("**Menu Items**")
     for item in menu_items:
-        st.write("-", item)
+        st.write(item)
 
